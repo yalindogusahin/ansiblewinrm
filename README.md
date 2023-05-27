@@ -16,7 +16,7 @@ This repository contains a PowerShell script that helps in opening the WinRM por
 4. Run the following command to execute the script:
 
 ```powershell
-.\Windows_winrm.ps1
+.\Windows_winrm.ps1```
 
 5. The script will prompt you to confirm whether you want to enable WinRM. Type 'Y' and press Enter to proceed.
 6. The script will make the necessary changes to open the WinRM port and configure the firewall rules.
